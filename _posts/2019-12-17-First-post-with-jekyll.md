@@ -6,3 +6,5 @@ comments: true
 show-avatar: false
 image: /img/ITCS-s.jpg
 ---
+
+## Get-VIPermissionsOnEntity
