@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Get-VIPermissionsOnEntity
+#title: Get-VIPermissionsOnEntity
 tags: powercli
 comments: true
 show-avatar: false
-image: /img/ITCS-s.png
+#image: /img/ITCS-s.png
 ---
 
-###
+### Get-VIPermissionsOnEntity
