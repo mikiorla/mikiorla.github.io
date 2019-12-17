@@ -9,7 +9,6 @@ show-avatar: false
 
 <!-- ### Find 'my website' string in files -->
 Simple reminder on how to search for a string in some files
-
 Find _my website_ string in files
 
 ~~~powershell
