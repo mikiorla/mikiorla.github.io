@@ -8,6 +8,8 @@ show-avatar: false
 ---
 
 <!-- ### Find 'my website' string in files -->
+Find 'my website' string in files
+
 ~~~powershell
 Get-ChildItem -Recurse | % { $file=$_; if (get-content $_ -ea SilentlyContinue| Select-String "my website") {$file.fullname}}
 ~~~
