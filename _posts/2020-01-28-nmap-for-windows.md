@@ -8,7 +8,7 @@ show-avatar: false
 ---
 
 Install nmap for windows and components
-[](img\nmap-1.jpg)
+[](..\img\nmap-1.jpg)
 
 <!-- ### Find 'my website' string in files -->
 
