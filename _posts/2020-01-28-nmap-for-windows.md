@@ -7,11 +7,10 @@ show-avatar: false
 #image: /img/ITCS-s.png
 ---
 
-Install nmap for windows and components
+Install nmap for windows and its components
 
-![nmap](/img/nmap-1.jpg "nmap-install-componentes")
+![nmap](/img/nmap-1.jpg "nmap-install-components")
 
-![nmap](https://github.com/mikiorla/mikiorla.github.io/blob/master/img/nmap-1.jpg)
 <!-- ### Find 'my website' string in files -->
 
 
