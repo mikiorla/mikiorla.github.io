@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go get in conntact with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Hi, I’m Milan Orlovic. I have been working in IT for over 20 years — actually, my entire professional career.
+Throughout this time, I’ve gained extensive experience in various areas of information technology, focusing on infrastructure, virtualization, and cloud technologies.
+I have a strong passion for automation, especially using PowerShell, which helps me streamline tasks, improve efficiency, and solve complex problems.I enjoy sharing knowledge and helping others navigate the ever-evolving world of IT
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
