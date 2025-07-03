@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go get in conntact with me
+subtitle: Why you'd want to get in contact with me
 ---
 
 Hi, I’m Milan Orlovic. I have been working in IT for over 20 years — actually, my entire professional career.
