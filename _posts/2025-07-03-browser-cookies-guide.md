@@ -153,5 +153,5 @@ $connection.Close()
 - Encrypt sensitive cookie contents.
 - Sanitize any data derived from cookies.
 
-\--- End of Document ---
+
 
