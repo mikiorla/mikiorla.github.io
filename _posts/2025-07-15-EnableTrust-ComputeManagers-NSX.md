@@ -12,7 +12,6 @@ The **"Enable Trust"** option in the Compute Managers section of VMware NSX is u
 - **vSphere Lifecycle Manager:** For NSX clusters managed by vSphere Lifecycle Manager (vLCM), enabling trust is mandatory. Without it, NSX cannot be enabled on vLCM-enabled clusters, and certain automation or lifecycle operations will fail[^1_2][^1_4][^1_5][^1_6].
 - **Enhanced Security:** The trust relationship involves certificate validation and thumbprint verification, ensuring that both NSX and vCenter can authenticate each other's identities before exchanging sensitive information[^1_1][^1_2].
 
-
 ### How It Works
 
 - When you add a compute manager (such as vCenter) in NSX, you have the option to enable trust.
