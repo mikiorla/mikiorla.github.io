@@ -1,4 +1,11 @@
-
+---
+layout: post
+#title: ESXi castore.pem Overview
+tags: [ESXi,Certificates]
+comments: true
+show-avatar: false
+#image: /img/ITCS-s.png
+---
 
 ## ESXi castore.pem Overview
 
